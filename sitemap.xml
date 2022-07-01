@@ -6,12 +6,77 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fpay.cl/installation/</loc>
+         <loc>https://fpay.cl/contact/other_questions/</loc>
          <lastmod>2022-07-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fpay.cl/requirements/</loc>
+         <loc>https://fpay.cl/contact/support/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/contact/team/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/frequent_problems/installation/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/frequent_problems/operation/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/installation/composer/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/installation/manual/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/installation/store/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/installation/test/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/operation/logs/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/operation/refund/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/operation/sell/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/operation/states/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/requirements/credentials/</loc>
+         <lastmod>2022-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fpay.cl/requirements/technical/</loc>
          <lastmod>2022-07-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
