@@ -1,0 +1,18 @@
+site_name: Fpay Woocommerce
+
+site_url: https://fpay.cl
+
+repo_url: https://github.com/example/repository/
+
+theme:
+    name: material
+    locale: es
+    palette:
+      primary: light green
+
+site_author: Fpay
+
+extra:
+    version: 2.0
+
+
